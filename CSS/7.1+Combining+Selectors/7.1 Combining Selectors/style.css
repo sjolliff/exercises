@@ -1,1 +1,21 @@
 /* Write your code here: */
+
+h1, h2 {
+    color: #8a2be2;
+}
+
+.box > p {
+    color: #b22222;
+}
+
+.box li {
+    color: #0000ff;
+}
+
+li.done {
+    color: #2e8b57;
+}
+
+ul p.done {
+    font-size: 0.5rem;
+}
