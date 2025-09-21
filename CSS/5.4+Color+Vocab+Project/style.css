@@ -1,0 +1,32 @@
+* {
+    font-family: 'muli', sans-serif;
+}
+
+.color-title {
+    font-weight: normal;
+}
+
+#red {
+    color: #ff0000;
+}
+
+.color-title#blue {
+    color: #0000ff;
+}
+
+.color-title#orange{
+    color: #ffa500;
+}
+
+.color-title#green {
+    color: #008000;
+}
+
+.color-title#yellow {
+    color: #ffff00;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
