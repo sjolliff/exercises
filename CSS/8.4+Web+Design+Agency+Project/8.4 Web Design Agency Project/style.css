@@ -16,6 +16,7 @@ h1 {
 
 footer {
   text-align: right;
+<<<<<<< HEAD
   color: #191970;
 }
 
@@ -65,3 +66,8 @@ footer {
     object-fit: cover;
   }
 }
+=======
+  color: midnightblue;
+}
+
+>>>>>>> 7c26f0d4b700361f6595a1cd78932cca36665fab
